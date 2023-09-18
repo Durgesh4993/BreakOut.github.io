@@ -23,6 +23,7 @@ const ball = {
   visible: true
 };
 
+
 // Create paddle props
 const paddle = {
   x: canvas.width / 2 - 40,
