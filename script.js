@@ -34,6 +34,7 @@ const paddle = {
   visible: true
 };
 
+
 // Create brick props
 const brickInfo = {
   w: 70,
