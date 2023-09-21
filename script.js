@@ -46,6 +46,7 @@ const brickInfo = {
   visible: true
 };
 
+
 // Create bricks
 const bricks = [];
 for (let i = 0; i < brickRowCount; i++) {
